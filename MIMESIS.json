@@ -1,0 +1,8 @@
+{
+    "name" : "MIMESIS",
+    "download_link" : "https://www.mediafire.com/file/k9n9fz255narnsf/MIMESIS.rar/file",
+    "base_app_start_exe" : "MIMESIS.exe",
+    "final_app_start_exe" : "MIMESIS.exe",
+    "delete_files" : {},
+    "change_file_names" : {}
+}
