@@ -3,6 +3,24 @@
     "download_link" : "https://www.mediafire.com/file/93etgv4pg0svwaf/Minecraft_Dungeons.rar/file",
     "base_app_start_exe" : "Dungeons-Win64-Shipping.exe",
     "final_app_start_exe" : "Dungeons-Win64-Shipping.exe",
-    "delete_files" : {"file1" : "Dungeons-Win64-Shipping.exe"},
-    "change_file_names" : {"Dungeons.exe" : "Dungeons-Win64-Shipping.exe"}
+    "delete_files" : {
+        "file1" : {
+            "path" : "base/MinecraftDungeons/Dungeons/Binaries/Win64/",
+            "file_name" : "Dungeons-Win64-Shipping",
+            "file_extension" : "exe",
+            "file_full_name" : "Dungeons-Win64-Shipping.exe"
+        }
+    },
+    "change_file_names" : {
+        "file1" : {
+            "path" : "base/MinecraftDungeons/Dungeons/Binaries/Win64/",
+            "file_name" : "Dungeons",
+            "file_extension" : "exe",
+            "file_full_name" : "Dungeons.exe",
+
+            "new_file_name" : "Dungeons-Win64-Shipping",
+            "new_file_extension" : "exe",
+            "new_file_full_name" : "Dungeons-Win64-Shipping.exe"
+        }
+    }
 }
