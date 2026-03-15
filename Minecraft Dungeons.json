@@ -3,6 +3,6 @@
     "download_link" : "https://www.mediafire.com/file/93etgv4pg0svwaf/Minecraft_Dungeons.rar/file",
     "base_app_start_exe" : "Dungeons.exe",
     "final_app_start_exe" : "Dungeons-Win64-Shipping.exe",
-    "delete_files" : {"file1" : "Dungeons-Win64-Shipping.exe"},
-    "change_file_names" : {"Dungeons.exe" : "Dungeons-Win64-Shipping.exe"}
+    "delete_files" : {},
+    "change_file_names" : {}
 }
