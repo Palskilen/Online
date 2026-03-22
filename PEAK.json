@@ -1,0 +1,8 @@
+{
+    "name" : "PEAK",
+    "download_link" : "https://www.mediafire.com/file/ywazgtgrx51rrlr/PEAK.rar/file",
+    "base_app_start_exe" : "PEAK.exe",
+    "final_app_start_exe" : "PEAK.exe",
+    "delete_files" : {},
+    "change_file_names" : {}
+}
